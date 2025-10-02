@@ -1,0 +1,43 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color:indianred; 
+  text-align: center;
+}
+h1{
+  background-color: cadetblue;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
+}
+input{
+  margin: 20px;
+  background-color: cadetblue;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  border-style: solid;
+  text-align: center;
+  font-style: italic;  
+
+}
+button{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border-style: none;
+  background-color:cadetblue;
+  font-size: medium;
+  font-weight:small;
+  text-align: center;
+  outline: none;
+  
+}
+.click{
+  display: block;
+}
