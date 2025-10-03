@@ -1,6 +1,7 @@
 *{
   padding: 0px;
   margin: 0px;
+  font-family:monospace;
 }
 body{
   background-color:indianred; 
@@ -11,6 +12,7 @@ h1{
   padding: 20px;
   margin: 10px;
   border-radius: 20px;
+  border-style: solid;
 }
 input{
   margin: 20px;
@@ -35,9 +37,4 @@ button{
   font-size: medium;
   font-weight:small;
   text-align: center;
-  outline: none;
-  
-}
-.click{
-  display: block;
 }
